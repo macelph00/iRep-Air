@@ -1,0 +1,12 @@
+---
+title : "Denford Laser Cutter"
+description: "AKA the Small laser cutter"
+excerpt: "AKA the Small laser cutter"
+date: false
+lastmod: false
+draft: false
+weight: 1
+images: ["denford_laser_cutter.jpeg"]
+
+
+---

@@ -1,0 +1,24 @@
+[[main]]
+  name = "What Am I?"
+  url = "/what-am-i/"
+  weight = 1
+
+[[main]]
+  name = "Machines"
+  url = "/machines/"
+  weight = 2
+
+[[Machines]]
+  name = "Denford Laser Cutter"
+  url = "/machines/denfordlasercutter/"
+  weight = 10
+
+[[Machines]]
+  name = "HPC Laser Cutter"
+  url = "/machines/hpclasercutter/"
+  weight = 20
+
+[[Machines]]
+  name = "Wood/Plastic Bandsaw"
+  url = "/machines/bandsaw/"
+  weight = 30

@@ -1,0 +1,2 @@
+{{$last := sub (len .Params.contributors) 1}}
+Posted{{ if .Params.categories -}} in {{ range $index, $category := .Params.categories -}}{{ if gt $index 0 -}}, {{ end -}}{{ . }}{{ end -}}{{ end -}} on {{ .PublishDate.Format "January 2, 2006" }} by {{ if .Params.contributors -}}{{ range $index, $contributor := .Params.contributors }}{{ if gt $index 0 }}{{ if eq $index $last }} and {{ else }}, {{ end }}{{ end }}{{ . }}{{ end -}}{{ end -}} ‐ {{ .ReadingTime -}} min read
