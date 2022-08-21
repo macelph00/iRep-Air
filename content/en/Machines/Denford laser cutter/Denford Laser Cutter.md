@@ -6,7 +6,7 @@ date: false
 lastmod: false
 draft: false
 weight: 1
-images: ["denford_laser_cutter.jpeg"]
-
+images: ["denfordlasercutter.jpeg"]
+url: "/machines/denfordlasercutter/"
 
 ---
