@@ -6,7 +6,7 @@ date: false
 lastmod: false
 draft: false
 weight: 4
-images: [/machines/denfordlasercutter/error#41]
+images: []
 
 
 ---
