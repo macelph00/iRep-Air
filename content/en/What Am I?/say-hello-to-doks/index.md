@@ -1,7 +1,7 @@
 ---
 title: "Hey! I Am iRep Air"
 description: "written on 22/8/2022 by William Wu"
-excerpt: "Written by William Wu on 22/8/2022 "
+excerpt: "Born on 22/8/2022, child of William Wu "
 date: false
 lastmod: false
 draft: false
