@@ -42,3 +42,8 @@
   name = "Waterjet Cutter"
   url = "/machines/waterjetcutter/"
   weight = 70
+
+  [[Machines]]
+  name = "Hot Wire Cutter"
+  url = "/machines/hotwirecutter/"
+  weight = 80

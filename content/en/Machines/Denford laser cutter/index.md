@@ -1,7 +1,7 @@
 ---
-title : "Denford Laser Cutter👆"
+title : "Denford Laser Cutter"
 description: "AKA the Small laser cutter"
-excerpt: "AKA the Small laser cutter"
+excerpt: "△ AKA the Small laser cutter △"
 date: false
 lastmod: false
 draft: false
