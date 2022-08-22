@@ -18,4 +18,3 @@ homepage: false
 ![Error#41](error41.png "Error#41: Erroneous Fixture Height")
 
 # Air Pressure Below Level
-
