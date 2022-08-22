@@ -19,6 +19,26 @@
   weight = 20
 
 [[Machines]]
-  name = "Wood/Plastic Bandsaw"
-  url = "/machines/bandsaw/"
+  name = "Wood&Plastic Bandsaw"
+  url = "/machines/woodplasticbandsaw/"
   weight = 30
+
+  [[Machines]]
+  name = "Belt Sander"
+  url = "/machines/beltsander/"
+  weight = 40
+
+  [[Machines]]
+  name = "Pillar Drill"
+  url = "/machines/pillardrill/"
+  weight = 50
+
+   [[Machines]]
+  name = "CNC Mill&Router"
+  url = "/machines/cncmachines/"
+  weight = 60
+
+   [[Machines]]
+  name = "Waterjet Cutter"
+  url = "/machines/waterjetcutter/"
+  weight = 70

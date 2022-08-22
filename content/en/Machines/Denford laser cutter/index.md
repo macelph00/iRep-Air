@@ -1,5 +1,5 @@
 ---
-title : "Denford Laser Cutter"
+title : "Denford Laser Cutter👆"
 description: "AKA the Small laser cutter"
 excerpt: "AKA the Small laser cutter"
 date: false
@@ -13,3 +13,9 @@ homepage: false
 
 
 ---
+# Error#41
+
+![Error#41](error41.png "Error#41: Erroneous Fixture Height")
+
+# Air Pressure Below Level
+
