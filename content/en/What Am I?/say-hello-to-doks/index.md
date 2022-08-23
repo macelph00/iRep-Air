@@ -15,4 +15,4 @@ homepage: false
 
 The purpose of ME is to give every iForge rep confidence to fix common problems with most of the machines.
 
-![Let's fix it!](blog_pic.jpeg "")
+![Let's fix it!](blog_pic.jpeg)

@@ -9,41 +9,41 @@
   weight = 2
 
 [[Machines]]
-  name = "Denford Laser Cutter"
+  name = "denfordlasercutter"
   url = "/machines/denfordlasercutter/"
   weight = 10
 
-[[Machines]]
+[[machines]]
   name = "HPC Laser Cutter"
   url = "/machines/hpclasercutter/"
   weight = 20
 
-[[Machines]]
+[[machines]]
   name = "Wood&Plastic Bandsaw"
   url = "/machines/woodplasticbandsaw/"
   weight = 30
 
-  [[Machines]]
+[[machines]]
   name = "Belt Sander"
   url = "/machines/beltsander/"
   weight = 40
 
-  [[Machines]]
+[[machines]]
   name = "Pillar Drill"
   url = "/machines/pillardrill/"
   weight = 50
 
-   [[Machines]]
+[[machines]]
   name = "CNC Mill&Router"
   url = "/machines/cncmachines/"
   weight = 60
 
-   [[Machines]]
+[[machines]]
   name = "Waterjet Cutter"
   url = "/machines/waterjetcutter/"
   weight = 70
 
-  [[Machines]]
+[[machines]]
   name = "Hot Wire Cutter"
   url = "/machines/hotwirecutter/"
   weight = 80
