@@ -1,18 +1,18 @@
 ---
-title : "Error#41: Errorneous Fixture Height"
+title : ""
 description: 
 excerpt: 
 date: false
 lastmod: false
-draft: 
+draft: false
 weight: 4
-images: ["error41.png"]
+images: []
 url: "/machines/denfordlasercutter/error41/"
 pinned: true
 homepage: false
+menu:
+  docs:
 ---
-
-
 
 ## Cause
 
