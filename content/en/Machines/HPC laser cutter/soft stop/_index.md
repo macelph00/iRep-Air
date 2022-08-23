@@ -5,7 +5,7 @@ excerpt:
 date: false
 lastmod: false
 draft: false
-weight: 2
+weight: 1
 images: []
 url: "/machines/hpclasercutter/softstop/"
 pinned: true
