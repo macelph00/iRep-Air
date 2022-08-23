@@ -1,18 +1,17 @@
 ---
-title : "Error#41: Errorneous Fixture Height"
+title : "Error#41: Erroneous Fixture Height"
 description: 
 excerpt: 
 date: false
 lastmod: false
-draft: 
+draft: false
 weight: 4
 images: ["error41.png"]
 url: "/machines/denfordlasercutter/error41/"
 pinned: true
 homepage: false
 ---
-
-
+<br>
 
 ## Cause
 
@@ -21,3 +20,8 @@ There is a magnet at the bottom of the bed and a sensor mounted on the laser cut
 ## Fix
 
 Move the bed to the top right corner, see if the error show up again.
+
+<br>
+<br>
+
+##### If still not working, please contact hardware team
