@@ -49,6 +49,6 @@
   weight = 80
 
 [[denfordlasercutter]]
-  name = "Error41"
+  name = "error41"
   url = "/machines/denfordlasercutter/error41/"
   weight = 10
