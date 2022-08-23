@@ -8,5 +8,7 @@ draft: false
 weight: 2
 images: ["hpc laser cutter.png"]
 url: "/machines/hpclasercutter/"
+pinned: true
+homepage: false
 
 ---

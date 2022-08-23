@@ -1,13 +1,13 @@
 ---
-title : "Error#41: Erroneous Fixture Height"
+title : "Case C"
 description: 
 excerpt: 
 date: false
 lastmod: false
 draft: false
-weight: 1
-images: ["error41.png"]
-url: "/machines/denfordlasercutter/error41/"
+weight: 3
+images: []
+url: "/machines/hpclasercutter/softstop/casec/"
 pinned: true
 homepage: false
 ---
