@@ -11,6 +11,7 @@ url: "/machines/denfordlasercutter/error41/"
 pinned: true
 homepage: false
 ---
+
 ## Cause
 
 There is a magnet at the bottom of the bed and a sensor mounted on the laser cutter to detect the magnet. If the magnet and the sensor are not aligned it will give the error message
