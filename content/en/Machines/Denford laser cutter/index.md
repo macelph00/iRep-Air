@@ -13,6 +13,7 @@ homepage: false
 
 
 ---
+
 # Error#41
 
 [![Error#41](error41.png)](/machines/denfordlasercutter/error41/)

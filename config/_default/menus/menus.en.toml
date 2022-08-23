@@ -47,3 +47,8 @@
   name = "Hot Wire Cutter"
   url = "/machines/hotwirecutter/"
   weight = 80
+
+[[denfordlasercutter]]
+  name = "error41"
+  url = "/machines/denfordlasercutter/"
+  weight = 90
