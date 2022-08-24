@@ -10,7 +10,6 @@ images: ["controlpanel.png"]
 url: "/machines/hpclasercutter/softstop/controlpanel/"
 pinned: true
 homepage: false
-mermaid: true
 ---
 ## Jogging the nozzle
 
@@ -31,8 +30,6 @@ Press "Esc" to select/deselect any options on the panel.
 Use **Left** and **Right** arrows to view options.
 
 Use **Up** and **Down** arrows to change settings in options ⬇️
-
-![esc](escapetochoose.jpg)
 
 <br>
 
