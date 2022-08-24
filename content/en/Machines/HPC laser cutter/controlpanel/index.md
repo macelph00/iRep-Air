@@ -10,6 +10,7 @@ images: ["controlpanel.png"]
 url: "/machines/hpclasercutter/softstop/controlpanel/"
 pinned: true
 homepage: false
+mermaid: true
 ---
 ## Jogging the nozzle
 
