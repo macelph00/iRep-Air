@@ -6,7 +6,7 @@ enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
 paginate = 10
-rssLimit = 10
+rssLimit = 100
 
 # Multilingual
 defaultContentLanguage = "en"
@@ -49,7 +49,7 @@ rel  = "sitemap"
 [caches]
   [caches.getjson]
     dir = ":cacheDir/:project"
-    maxAge = "10s"
+    maxAge = "100s"
 
 [sitemap]
   changefreq = "weekly"
@@ -69,7 +69,7 @@ rel  = "sitemap"
   keepWhitespace = false
 
 [related]
-  threshold = 80
+  threshold = 800
   includeNewer = true
   toLower = false
     [[related.indices]]
