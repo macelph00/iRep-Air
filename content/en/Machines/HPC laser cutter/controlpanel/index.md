@@ -39,12 +39,6 @@ Use **Up** and **Down** arrows to change settings in options ⬇️
 
 ## Set and Cancel Logic Org(origin)
 
-When the files are selected on the panel and the nozzle is positioned at where you wish then click "Enter" once. (Shown below)
-
-![setlogicorg](setlogicorg.jpg)
-
-Then press **Right** arrow key to select "Cancel Logic Org", press "Enter".(Shown below)
-
-![cancellogicorg](cancellogicorg.jpg)
+Press "Enter"
 
 ##### If have any other problems or still not working, please contact hardware team
