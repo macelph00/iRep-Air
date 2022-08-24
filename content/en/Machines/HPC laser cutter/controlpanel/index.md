@@ -21,7 +21,6 @@ In order to jog the nozzle, make sure nothing is selected as shown below ⬇️
 
 ![jog](jog_nozzle.jpg)
 
-
 ## Select and change settings
 
 <br>
