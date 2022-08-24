@@ -10,3 +10,17 @@ images: [wire cutter.png]
 url: "/machines/hotwirecutter/"
 
 ---
+<br>
+
+## Root Cause
+
+
+
+## Fix
+
+
+
+<br>
+<br>
+
+##### If still not working, please contact hardware team

@@ -5,8 +5,8 @@ excerpt:
 date: false
 lastmod: false
 draft: false
-weight: 5
-images: []
+weight: 6
+images: ["nolaser.jpeg"]
 url: "/machines/hpclasercutter/nolaser"
 pinned: true
 homepage: false
@@ -15,11 +15,11 @@ homepage: false
 
 ## Root Cause
 
-There is a magnet at the bottom of the bed and a sensor mounted on the laser cutter to detect the magnet. If the magnet and the sensor are not aligned it will give the error message
+The cooler unit is not turned on.
 
 ## Fix
 
-Move the bed to the top right corner, see if the error show up again.
+Turn the cooler on behind the machine.
 
 <br>
 <br>

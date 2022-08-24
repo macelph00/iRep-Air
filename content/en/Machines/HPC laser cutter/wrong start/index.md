@@ -1,27 +1,50 @@
 ---
 title : "Start Cutting Somewhere Else"
 description: 
-excerpt: 
+excerpt:
 date: false
 lastmod: false
 draft: false
 weight: 2
-images: []
+images: ["wrongstart.png"]
 url: "/machines/hpclasercutter/wrongstart/"
 pinned: true
 homepage: false
 ---
 <br>
 
+1. Check if "immediate" is enabled, by clicking it the nozzle will start where ever it's left in the machine when downloading "current" to the machine.
+
+<br>
+
+![immediate](immediate.PNG)
+
+<br>
+
+2. If "immdeidate" is disabled, the nozzle will start where the blue dot is, relatively in the software.
+
+<br>
+
+![nonimmediate](nozzleposition.jpeg)
+
 ## Root Cause
 
-There is a magnet at the bottom of the bed and a sensor mounted on the laser cutter to detect the magnet. If the magnet and the sensor are not aligned it will give the error message
+With "Immediate" enabled, nozzle position of the **MACHINE** overwrites the software.
+
+<br>
+
+With "Immediate" disabled, nozzle position of the **SOFTWARE** overwrites the machine.
+
+<br>
+
+**NOTE**: it may cause SOFT STOP error as well.
 
 ## Fix
 
-Move the bed to the top right corner, see if the error show up again.
+Both works fine, choose an option that you prefer.
+
 
 <br>
 <br>
 
-##### If still not working, please contact hardware team
+##### If still not working, please contact hardware team##### If have any other problems or still not working, please contact hardware team

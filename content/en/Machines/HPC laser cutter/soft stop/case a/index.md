@@ -1,12 +1,12 @@
 ---
 title : "Case A"
 description: 
-excerpt: 
+excerpt: "Part of DXF file is outside cutting boundary."
 date: false
 lastmod: false
 draft: false
 weight: 1
-images: []
+images: [Case A.PNG]
 url: "/machines/hpclasercutter/softstop/casea/"
 pinned: true
 homepage: false
@@ -15,13 +15,15 @@ homepage: false
 
 ## Root Cause
 
-There is a magnet at the bottom of the bed and a sensor mounted on the laser cutter to detect the magnet. If the magnet and the sensor are not aligned it will give the error message
+Part of DXF file is outside the cutting boundary
+
 
 ## Fix
 
-Move the bed to the top right corner, see if the error show up again.
+Check if there are any DXF files remain outside the 600mm X 900mm cutting bed in the software.
+
 
 <br>
 <br>
 
-##### If still not working, please contact hardware team
+##### If have any other problems or still not working, please contact hardware team

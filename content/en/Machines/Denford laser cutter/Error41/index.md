@@ -15,13 +15,13 @@ homepage: false
 
 ## Root Cause
 
-There is a magnet at the bottom of the bed and a sensor mounted on the laser cutter to detect the magnet. If the magnet and the sensor are not aligned it will give the error message
+TBD
 
 ## Fix
 
-Move the bed to the top right corner, see if the error show up again.
+TBD
 
 <br>
 <br>
 
-##### If still not working, please contact hardware team
+##### If have any other problems or still not working, please contact hardware team

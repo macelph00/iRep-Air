@@ -1,12 +1,12 @@
 ---
-title : "Air Pressure Below Level"
+title : "Error#10"
 description: 
 excerpt: 
 date: false
 lastmod: false
 draft: false
 weight: 2
-images: []
+images: ["error10.JPG"]
 url: "/machines/denfordlasercutter/lowairpressure/"
 pinned: true
 homepage: false
@@ -24,4 +24,4 @@ Turn on the extraction unit beside the laser cutter.
 <br>
 <br>
 
-##### If still not working, please contact hardware team
+##### If have any other problems or still not working, please contact hardware team

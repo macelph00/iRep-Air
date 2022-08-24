@@ -5,12 +5,44 @@ excerpt:
 date: false
 lastmod: false
 draft: false
-weight: 3
-images: []
+weight: 5
+images: ["controlpanel.png"]
 url: "/machines/hpclasercutter/softstop/controlpanel/"
 pinned: true
 homepage: false
 ---
+## Jogging the nozzle
+
+<br>
+
+Press "Esc" to select/deselect any options on the panel.
+
+In order to jog the nozzle, make sure nothing is selected as shown below ⬇️
+
+![jog](jog_nozzle.jpg)
 
 
-##### If still not working, please contact hardware team
+## Select and change settings
+
+<br>
+
+Press "Esc" to select/deselect any options on the panel.
+
+Use **Left** and **Right** arrows to view options.
+
+Use **Up** and **Down** arrows to change settings in options ⬇️
+
+![select](select_option.jpg)
+[if wish to change speed above to 99%, press down key once]
+
+## Set and Cancel Logic Org(origin)
+
+When the files are selected on the panel and the nozzle is positioned at where you wish then click "Enter" once. (Shown below)
+
+![setlogicorg](set_logic_org.jpg)
+
+Then press **Right** arrow key to select "Cancel Logic Org", press "Enter".(Shown below)
+
+![cancellogicorg](cancel_logic_org.jpg)
+
+##### If have any other problems or still not working, please contact hardware team
