@@ -13,7 +13,7 @@ homepage: false
 ---
 <br>
 
-1.  Check if "immediate" is clicked, if so it starts cutting where the nozzle is left at when Downloading "current" to the machine.
+1. Check if "immediate" is clicked, if so it starts cutting where the nozzle is left at when Downloading "current" to the machine.
 
 <br>
 
@@ -21,7 +21,7 @@ homepage: false
 
 <br>
 
-2.  Check the position of the nozzle on the software. **NOTE** that the blue dot in the top right corner of the shape indicates the starting position of the nozzle, shown below.
+2. Check the position of the nozzle on the software. **NOTE** that the blue dot in the top right corner of the shape indicates the starting position of the nozzle, shown below.
 
 <br>
 
