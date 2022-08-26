@@ -69,9 +69,9 @@ Source:
     document: {
       id: 'id',
       store: [
-        "href", "title", "description"
+        "href", "title"
       ],
-      index: ["title", "description", "content"]
+      index: ["title"]
     }
   });
 
