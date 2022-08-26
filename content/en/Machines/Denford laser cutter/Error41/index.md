@@ -15,13 +15,11 @@ homepage: false
 
 ## Root Cause
 
-TBD
+This error usually happens after the rotary engraving fixture's been plugged in and out. The z axis needs to be recalibrated after using the rotary fixture.
 
 ## Fix
 
-TBD
+Make sure the "auto z" in the second tab of the ULS software is turned on, please contact hardware team to fix it.
 
 <br>
 <br>
-
-##### If have any other problems or still not working, please contact hardware team

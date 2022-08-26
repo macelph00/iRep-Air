@@ -35,10 +35,10 @@ Use **Up** and **Down** arrows to change settings in options ⬇️
 
 ![select](selectoption.jpg)
 
-[if wish to change speed above to 99%, press down key once]
+[if wish to change speed above to 99%, press down arrow key once.
 
 ## Set and Cancel Logic Org(origin)
 
-Press "Enter"
+Press "Enter" when file is selected then press "Enter" to cancel logic origin.
 
 ##### If have any other problems or still not working, please contact hardware team

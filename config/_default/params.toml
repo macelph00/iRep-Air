@@ -2,9 +2,9 @@
 
 ## Homepage
 title = "iRep Air"
-titleSeparator = "-"
-titleAddition = "Oopsie, this machine is out of order..."
-description = "Lemme try to fix it!"
+titleSeparator = ""
+titleAddition = ""
+description = ""
 
 ## Documentation
 # docsVersion = "0.3"

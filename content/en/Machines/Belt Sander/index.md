@@ -1,12 +1,11 @@
 ---
 title : "Belt Sander"
-description: "Who is always hungry"
-excerpt: "△ Who is always hungry △"
+description: "Who eats a lot"
+excerpt: "△ Who eats a lot △"
 date: false
 lastmod: false
 draft: false
 weight: 4
 images: [belt sander.png]
 url: "/machines/beltsander/"
-
 ---

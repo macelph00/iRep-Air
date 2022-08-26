@@ -6,7 +6,10 @@
 [[main]]
   name = "Machines"
   url = "/machines/"
+  identifier = "machines"
   weight = 2
+
+
 
 [[Machines]]
   name = "denfordlasercutter"
