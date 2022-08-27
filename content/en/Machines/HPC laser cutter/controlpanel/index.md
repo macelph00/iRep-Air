@@ -21,7 +21,7 @@ Press "Esc" to select/deselect any options on the panel.
 
 In order to jog the nozzle, make sure nothing is selected as shown below ⬇️
 
-
+![jog](jognozzle.jpg)
 
 ## Select and change settings
 
