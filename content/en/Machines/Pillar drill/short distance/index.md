@@ -6,7 +6,7 @@ date: false
 lastmod: false
 draft: false
 weight: 5
-images: ["short.jpeg"]
+images: [short.jpeg]
 url: "/machines/pillardrill/shortdistance/"
 
 ---
@@ -18,7 +18,7 @@ url: "/machines/pillardrill/shortdistance/"
 
 2. Loosen the screw on the knob gauge, turn it to a larger value then tighten it.
 
-
+![knob](knob-gauge.jpg)
 
 ---
 
