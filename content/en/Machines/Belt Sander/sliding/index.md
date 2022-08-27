@@ -18,7 +18,6 @@ The top roller is not leveled horizontally, causing the belt to slightly slide t
 
 Unscrew the bolt at the back on the machine, lift the guard up then the casing, shown below.
 
-![Step1](step1.jpg)
 
 **WEAR GLOVES**, manually turn the belt while adjusting the two knobs on the side. When the belt stops sliding to either direction and the tension is reasonable, put the casing back and insert the screw.
 
