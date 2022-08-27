@@ -7,6 +7,5 @@ lastmod: false
 draft: false
 weight: 1
 url: "/machines/"
-id: 1
 ---
 Here are all the lovely babies 😚
