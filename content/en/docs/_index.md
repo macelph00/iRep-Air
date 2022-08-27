@@ -1,7 +1,7 @@
 ---
 title : "Machines"
 description: "Here are the lovely babies"
-lead: ""
+lead: "Here are the lovely babies"
 date: false
 lastmod: false
 draft: false

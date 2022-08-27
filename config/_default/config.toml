@@ -1,4 +1,4 @@
-baseurl = "https://irep-air.netlify.app/"
+baseurl = ""
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
