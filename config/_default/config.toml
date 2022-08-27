@@ -6,7 +6,7 @@ enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
 paginate = 10
-rssLimit = 100
+rssLimit = 200
 
 # Multilingual
 defaultContentLanguage = "en"
@@ -49,7 +49,7 @@ rel  = "sitemap"
 [caches]
   [caches.getjson]
     dir = ":cacheDir/:project"
-    maxAge = "200s"
+    maxAge = "800s"
 
 [sitemap]
   changefreq = "weekly"
