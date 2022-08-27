@@ -32,7 +32,7 @@ Use **Left** and **Right** arrows to view options.
 
 Use **Up** and **Down** arrows to change settings in options ⬇️
 
-![select](selectoption.jpg)
+
 
 [if wish to change speed above to 99%, press down arrow key once.
 

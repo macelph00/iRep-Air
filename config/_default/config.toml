@@ -5,7 +5,7 @@ disableHugoGeneratorInject = true
 enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
-paginate = 10
+paginate = 30
 rssLimit = 200
 
 # Multilingual
