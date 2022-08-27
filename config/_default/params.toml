@@ -41,7 +41,7 @@ defaultImage = "default-image.png" # put in `./assets/images/`
 fillImage = "5120x3840 Center" # normalize image size
 
 # Footer
-footer = "Hardware iForge"
+footer = "Hardware iForge  (V1.0)"
 
 # Feed
 copyRight = "Hardware iForge 2022"
