@@ -11,7 +11,7 @@ url: "/machines/hpclasercutter/softstop/caseb/"
 pinned: true
 homepage: false
 ---
-<br>
+---
 
 1. Check if "immediate" is clicked, if so it starts cutting where the nozzle is left at when Downloading "current" to the machine.
 
@@ -51,7 +51,6 @@ There are 2 ways to fix this.
 
 2. Alternatively, unclick the "immediate". Now if you download "current" to the machine, it will start where the blue dot is, relatively in the software. Press "test" to check before start cutting.
 
-<br>
-<br>
+---
 
 ###### If have any other problems or still not working, please contact hardware team

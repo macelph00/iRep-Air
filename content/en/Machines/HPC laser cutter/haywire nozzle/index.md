@@ -39,7 +39,6 @@ Click **download CFG**, you will hear a beep meaning the updated configuration h
 
 ![cfg](cfg.jpeg)
 
-<br>
-<br>
+---
 
 ##### If have any other problems or still not working, please contact hardware team

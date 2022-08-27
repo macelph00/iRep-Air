@@ -11,7 +11,7 @@ url: "/machines/denfordlasercutter/lowairpressure/"
 pinned: true
 homepage: false
 ---
-<br>
+---
 
 ## Root Cause
 
@@ -21,7 +21,6 @@ There are insufficient air pressure inside the system.
 
 Turn on the extraction unit beside the laser cutter.
 
-<br>
-<br>
+---
 
 ##### If have any other problems or still not working, please contact hardware team

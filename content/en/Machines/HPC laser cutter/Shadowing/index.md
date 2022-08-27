@@ -11,7 +11,7 @@ url: "/machines/hpclasercutter/shadowcut/"
 pinned: true
 homepage: false
 ---
-<br>
+---
 
 ## Root Cause
 
@@ -19,6 +19,6 @@ There is a mirror misalignment issue, producing a second reflection laser with a
 
 ## Fix
 
-Please contact hardware team.
+**Please contact hardware team.**
 
 <br>

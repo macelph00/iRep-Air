@@ -11,6 +11,9 @@ url: "/machines/hpclasercutter/softstop/controlpanel/"
 pinned: true
 homepage: false
 ---
+
+---
+
 ## Jogging the nozzle
 
 <br>
@@ -40,5 +43,7 @@ Use **Up** and **Down** arrows to change settings in options ⬇️
 ## Set and Cancel Logic Org(origin)
 
 Press "Enter" when file is selected then press "Enter" to cancel logic origin.
+
+---
 
 ##### If have any other problems or still not working, please contact hardware team

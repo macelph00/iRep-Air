@@ -11,7 +11,7 @@ url: "/machines/denfordlasercutter/error41/"
 pinned: true
 homepage: false
 ---
-<br>
+---
 
 ## Root Cause
 
@@ -19,7 +19,7 @@ This error usually happens after the rotary engraving fixture's been plugged in 
 
 ## Fix
 
-Make sure the "auto z" in the second tab of the ULS software is turned on, please contact hardware team to fix it.
+Make sure the "auto z" in the second tab of the ULS software is turned on, **please contact hardware team to fix it.**
 
 <br>
 <br>

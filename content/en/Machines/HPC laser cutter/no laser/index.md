@@ -11,7 +11,7 @@ url: "/machines/hpclasercutter/nolaser"
 pinned: true
 homepage: false
 ---
-<br>
+---
 
 ## Root Cause
 
@@ -21,7 +21,6 @@ The cooler unit is not turned on.
 
 Turn the cooler on behind the machine.
 
-<br>
-<br>
+---
 
-##### If still not working, please contact hardware team
+##### If have any other problems or still not working, please contact hardware team

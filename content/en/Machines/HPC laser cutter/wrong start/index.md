@@ -11,7 +11,7 @@ url: "/machines/hpclasercutter/wrongstart/"
 pinned: true
 homepage: false
 ---
-<br>
+---
 
 1. Check if "immediate" is enabled, by clicking it the nozzle will start where ever it's left in the machine when downloading "current" to the machine.
 
@@ -47,4 +47,4 @@ Both works fine, choose an option that you prefer.
 <br>
 <br>
 
-##### If still not working, please contact hardware team##### If have any other problems or still not working, please contact hardware team
+##### If have any other problems or still not working, please contact hardware team

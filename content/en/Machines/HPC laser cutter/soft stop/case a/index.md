@@ -11,7 +11,7 @@ url: "/machines/hpclasercutter/softstop/casea/"
 pinned: true
 homepage: false
 ---
-<br>
+---
 
 ## Root Cause
 
@@ -23,7 +23,6 @@ Part of DXF file is outside the cutting boundary
 Check if there are any DXF files remain outside the 600mm X 900mm cutting bed in the software.
 
 
-<br>
-<br>
+---
 
 ##### If have any other problems or still not working, please contact hardware team
