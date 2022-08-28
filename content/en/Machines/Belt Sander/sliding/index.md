@@ -7,6 +7,7 @@ lastmod: false
 draft: false
 weight: 1
 images: []
+mermaid: true
 url: "/machines/beltsander/beltsliding/"
 ---
 ---
