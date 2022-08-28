@@ -5,7 +5,7 @@ disableHugoGeneratorInject = true
 enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
-paginate = 30
+paginate = 3000
 rssLimit = 600000
 
 # Multilingual
@@ -70,7 +70,7 @@ rel  = "sitemap"
   keepWhitespace = false
 
 [related]
-  threshold = 90
+  threshold = 100
   includeNewer = true
   toLower = false
     [[related.indices]]
