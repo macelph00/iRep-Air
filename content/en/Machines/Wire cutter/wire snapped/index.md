@@ -6,7 +6,7 @@ date: false
 lastmod: false
 draft: false
 weight: 1
-images: []
+images: [snapped.jpeg]
 url: "/machines/hotwirecutter/snappedwire/"
 
 ---

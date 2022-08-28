@@ -16,7 +16,11 @@ url: "/machines/pillardrill/shortdistance/"
 
 1. Loosen the handle of the table to move it up/down/around.
 
+![table](table.jpg)
+
 2. Loosen the screw on the knob gauge, turn it to a larger value then tighten it.
+
+![knob](knob-gauge.jpg)
 
 ---
 

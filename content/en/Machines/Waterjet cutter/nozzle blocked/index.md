@@ -6,7 +6,7 @@ date: false
 lastmod: false
 draft: false
 weight: 7
-images: []
+images: [blocked.jpeg]
 url: "/machines/waterjetcutter/nozzleblocked/"
 
 ---
@@ -18,4 +18,4 @@ There is the blockage in the nozzle and the water goes back into the tube and co
 
 ## Fix
 
-Please contact hardware team.
+**Please contact hardware team.**
