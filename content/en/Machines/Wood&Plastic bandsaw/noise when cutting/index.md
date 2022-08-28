@@ -18,6 +18,7 @@ url: "/machines/woodplasticbandsaw/noise/"
 
 The user are feeding the material too fast.
 
+![feed](push.jpeg)
 
 ### Fix
 
