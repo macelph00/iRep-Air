@@ -6,7 +6,7 @@ enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
 paginate = 30
-rssLimit = 200
+rssLimit = 600
 
 # Multilingual
 defaultContentLanguage = "en"
