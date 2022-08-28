@@ -9,6 +9,7 @@ weight: 3
 images: ["Case B1.PNG"]
 url: "/machines/hpclasercutter/softstop/caseb/"
 pinned: true
+mermaid: true
 homepage: false
 ---
 ---
