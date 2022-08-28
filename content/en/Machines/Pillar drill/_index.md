@@ -6,7 +6,7 @@ date: false
 lastmod: false
 draft: false
 weight: 5
-images: [pillar drill.png]
+images: [pillar-drill.png]
 url: "/machines/pillardrill/"
 
 ---

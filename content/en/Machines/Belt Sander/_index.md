@@ -6,6 +6,6 @@ date: false
 lastmod: false
 draft: false
 weight: 4
-images: [belt sander.png]
+images: [belt-sander.png]
 url: "/machines/beltsander/"
 ---
