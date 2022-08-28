@@ -9,7 +9,6 @@ weight: 3
 images: ["Case B1.PNG"]
 url: "/machines/hpclasercutter/softstop/caseb/"
 pinned: true
-mermaid: true
 homepage: false
 ---
 ---
@@ -38,7 +37,7 @@ homepage: false
 
 ## Root Cause
 
-which is going outside the machine. NOTE that the blue dot in the top right corner of the shape indicates the starting position of the nozzle.  In order to avoid actual crash, thus SOFT STOP.
+NOTE that the blue dot in the top right corner of the shape indicates the starting position of the nozzle. If the nozzle start at the position above, it will clearly go outside the machine boundary. In order to avoid actual crash, thus SOFT STOP.
 
 ## Fix
 
