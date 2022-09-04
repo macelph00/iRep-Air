@@ -1,12 +1,12 @@
 ---
-title : "Tool Stucked In Spindle after Operation [CNC Mill]"
-description: "tool won't drop when pressing the release button"
-excerpt: "tool won't drop when pressing the release button"
+title : "Tool Stuck In Spindle after Operation [CNC Mill]"
+description: "Tool won't drop when pressing the release button"
+excerpt: "Tool won't drop when pressing the release button"
 date: false
 lastmod: false
 draft: false
 weight: 1
-images: []
+images: [stuck.jpg]
 url: "/machines/cncmachines/toolstuck/"
 
 ---

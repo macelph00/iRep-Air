@@ -5,7 +5,7 @@ excerpt:
 date: false
 lastmod: false
 draft: false
-weight: 2
+weight: 3
 images: ["wrongstart.png"]
 url: "/machines/hpclasercutter/wrongstart/"
 pinned: true
@@ -43,8 +43,6 @@ With "Immediate" disabled, nozzle position of the **SOFTWARE** overwrites the ma
 
 Both works fine, choose an option that you prefer.
 
-
-<br>
-<br>
+---
 
 ##### If have any other problems or still not working, please contact hardware team

@@ -5,7 +5,7 @@ excerpt:
 date: false
 lastmod: false
 draft: false
-weight: 5
+weight: 6
 images: ["controlpanel.png"]
 url: "/machines/hpclasercutter/softstop/controlpanel/"
 pinned: true
