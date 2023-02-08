@@ -28,4 +28,4 @@ If the pressure is out of range (6-8 bars), there's nothing could be done (happe
 
 ---
 
-##### If have any other problems or still not working, please contact hardware team
+##### If have any other problems or still not working, please contact hardware team (Slack #hardware).

@@ -26,4 +26,4 @@ One needs to press the white button inside the machine (tool loading button), ke
 
 ---
 
-##### If have any other problems or still not working, please contact hardware team
+##### If have any other problems or still not working, please contact hardware team (Slack #hardware).

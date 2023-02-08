@@ -53,4 +53,4 @@ There are 2 ways to fix this.
 
 ---
 
-##### If have any other problems or still not working, please contact hardware team
+##### If have any other problems or still not working, please contact hardware team (Slack #hardware).

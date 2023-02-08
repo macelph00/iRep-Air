@@ -29,4 +29,4 @@ This means the lens are out of focus, which will either cause a power insufficie
 
 ---
 
-##### If have any other problems or still not working, please contact hardware team
+##### If have any other problems or still not working, please contact hardware team (Slack #hardware).

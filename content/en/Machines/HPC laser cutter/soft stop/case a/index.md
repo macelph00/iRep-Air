@@ -25,4 +25,4 @@ Check if there are any DXF files remain outside the 600mm X 900mm cutting bed in
 
 ---
 
-##### If have any other problems or still not working, please contact hardware team
+##### If have any other problems or still not working, please contact hardware team (Slack #hardware).

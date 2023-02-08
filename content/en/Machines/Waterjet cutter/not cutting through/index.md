@@ -24,4 +24,4 @@ If the nozzle tip and the top of the material is too close, move the nozzle up a
 
 ---
 
-##### If have any other problems or still not working, please contact hardware team
+##### If have any other problems or still not working, please contact hardware team (Slack #hardware).

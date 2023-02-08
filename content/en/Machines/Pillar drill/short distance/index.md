@@ -24,4 +24,4 @@ url: "/machines/pillardrill/shortdistance/"
 
 ---
 
-##### If have any other problems or still not working, please contact hardware team
+##### If have any other problems or still not working, please contact hardware team (Slack #hardware).

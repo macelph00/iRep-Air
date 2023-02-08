@@ -1,11 +1,11 @@
 ---
 title : "How To Use The Control Panel"
 description: 
-excerpt: 
+excerpt: "Need a bit of refresh?"
 date: false
 lastmod: false
 draft: false
-weight: 6
+weight: 3
 images: ["controlpanel.png"]
 url: "/machines/hpclasercutter/softstop/controlpanel/"
 pinned: true
@@ -41,4 +41,4 @@ Press "Enter" when file is selected then press "Enter" to cancel logic origin.
 
 ---
 
-##### If have any other problems or still not working, please contact hardware team
+##### If have any other problems or still not working, please contact hardware team (Slack #hardware).

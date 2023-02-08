@@ -38,4 +38,4 @@ In order to fix this issue, it's recommended to clean the DXF in AutoCAD.
 
 ---
 
-##### If have any other problems or still not working, please contact hardware team
+##### If have any other problems or still not working, please contact hardware team (Slack #hardware).

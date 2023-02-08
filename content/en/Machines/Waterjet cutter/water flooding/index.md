@@ -18,4 +18,4 @@ The filter/pump recycling the water is blocked with sand.
 
 ## Fix
 
-Please contact hardware team.
+**Please contact hardware team.**

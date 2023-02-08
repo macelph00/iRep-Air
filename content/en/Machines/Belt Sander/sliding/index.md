@@ -31,4 +31,4 @@ Unscrew the bolt at the back on the machine, lift the guard up then the casing, 
 
 ---
 
-##### If have any other problems or still not working, please contact hardware team
+##### If have any other problems or still not working, please contact hardware team (Slack #hardware).

@@ -5,7 +5,7 @@ excerpt:
 date: false
 lastmod: false
 draft: false
-weight: 3
+weight: 5
 images: ["wrongstart.png"]
 url: "/machines/hpclasercutter/wrongstart/"
 pinned: true
@@ -45,4 +45,4 @@ Both works fine, choose an option that you prefer.
 
 ---
 
-##### If have any other problems or still not working, please contact hardware team
+##### If have any other problems or still not working, please contact hardware team (Slack #hardware).

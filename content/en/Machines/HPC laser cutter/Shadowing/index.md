@@ -1,11 +1,11 @@
 ---
-title : "Shadowing Cut"
+title : "Mirror Misalignment: Doing Shadowing Cuts"
 description: 
 excerpt: 
 date: false
 lastmod: false
 draft: false
-weight: 4
+weight: 2
 images: [shadow.jpeg]
 url: "/machines/hpclasercutter/shadowcut/"
 pinned: true
@@ -20,5 +20,9 @@ There is a mirror misalignment issue, producing a second reflection laser with a
 ## Fix
 
 **Please contact hardware team.**
+
+<!-- **<span style="color:green">However if you fancy a challenge and fix this issue:</span>**
+
+Mechanism of the laser cutter: -->
 
 <br>

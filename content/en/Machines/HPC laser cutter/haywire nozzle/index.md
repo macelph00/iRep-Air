@@ -5,7 +5,7 @@ excerpt: "picture found online🤓"
 date: false
 lastmod: false
 draft: false
-weight: 2
+weight: 4
 images: ["crash.jpg"]
 url: "/machines/hpclasercutter/haywirenozzle/"
 pinned: true
@@ -41,4 +41,4 @@ Click **download CFG**, you will hear a beep meaning the updated configuration h
 
 ---
 
-##### If have any other problems or still not working, please contact hardware team
+##### If have any other problems or still not working, please contact hardware team (Slack #hardware).

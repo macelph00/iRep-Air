@@ -5,7 +5,7 @@ excerpt:
 date: false
 lastmod: false
 draft: false
-weight: 2
+weight: 4
 images: ["error10.JPG"]
 url: "/machines/denfordlasercutter/lowairpressure/"
 pinned: true
@@ -23,4 +23,4 @@ Turn on the extraction unit beside the laser cutter.
 
 ---
 
-##### If have any other problems or still not working, please contact hardware team
+##### If have any other problems or still not working, please contact hardware team (Slack #hardware).

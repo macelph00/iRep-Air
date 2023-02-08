@@ -20,4 +20,4 @@ There are some spare wires on top of the machine/swipe card cupboard. Turn the k
 
 ---
 
-##### If have any other problems or still not working, please contact hardware team
+##### If have any other problems or still not working, please contact hardware team (Slack #hardware).

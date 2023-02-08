@@ -1,7 +1,7 @@
 ---
 title : "SOFT STOP"
 description: 
-excerpt: 
+excerpt: "Most common issue"
 date: false
 lastmod: false
 draft: false
