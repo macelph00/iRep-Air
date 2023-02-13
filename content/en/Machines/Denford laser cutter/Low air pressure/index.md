@@ -5,7 +5,7 @@ excerpt:
 date: false
 lastmod: false
 draft: false
-weight: 4
+weight: 50
 images: ["error10.JPG"]
 url: "/machines/denfordlasercutter/lowairpressure/"
 pinned: true

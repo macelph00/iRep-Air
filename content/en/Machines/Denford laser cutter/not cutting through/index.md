@@ -5,7 +5,7 @@ excerpt:
 date: false
 lastmod: false
 draft: false
-weight: 2
+weight: 20
 images: ["notcuttingthrough.jpg"]
 url: "/machines/denfordlasercutter/notcutthingthrough/"
 pinned: true
