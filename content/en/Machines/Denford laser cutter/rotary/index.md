@@ -35,7 +35,7 @@ homepage: false
 
 ![custom properties](2.JPG)
 
-7. You have to make sure material is selected to **Soda-Lime Glass**, the Diameter and Thickness are measured from the part where you'd like to engrave on your object, and the Fixture Type is **Rotary**, shown below.
+7. You have to make sure material is selected to **Soda-Lime Glass**, the Diameter and Thickness are measured from the part where you'd like to engrave on your object, and the **Fixture Type** is **Rotary**, shown below.
 
 ![material properties](3.JPG)
 

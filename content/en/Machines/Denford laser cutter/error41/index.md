@@ -33,7 +33,7 @@ Please refer to [Rotary Engraving Configuration](https://irep-air.netlify.app/ma
 
 ![custom properties](2.JPG)
 
-2. Change the **Figure Type** to **None**, and select other appropiate settings such as material thickness. Press **Apply** and **OK** to save the configuration.
+2. Change the **Fixture Type** to **None**, and select other appropiate settings such as material thickness. Press **Apply** and **OK** to save the configuration.
 
 ![cutting configuration](10.JPG)
 
