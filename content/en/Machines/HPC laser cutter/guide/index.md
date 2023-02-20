@@ -1,7 +1,7 @@
 ---
 title : "Step-by-Step Guide"
 description: 
-excerpt: "This is for the latest version of control pannel and Lightburn software"
+excerpt: "This is for the latest version of control panel and Lightburn software"
 date: false
 lastmod: false
 draft: false
@@ -42,10 +42,10 @@ When you're statisfied with your drawing, cutting operation, cutting parameters,
 *If you have complete all steps above your file has been succesfully sent to the laser cutter and ready to cut.*
 
 
-### Using the Laser Cutter with Control Pannel shown below
+### Using the Laser Cutter with Control Panel shown below
 
 
-![controlpannel](controlpannel.png)
+![controlpanel](controlpannel.png)
 
 
 1. **<span style="color:red">Do Not click Esc when Resetting</span>**, this will cause serious issue.
