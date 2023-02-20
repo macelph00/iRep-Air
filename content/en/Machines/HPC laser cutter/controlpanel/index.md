@@ -1,11 +1,11 @@
 ---
-title : "How To Use The Control Panel"
+title : "How To Use The Control Panel (Old Version Archieve"
 description: 
 excerpt: "Need a bit of refresh?"
 date: false
 lastmod: false
 draft: false
-weight: 3
+weight: 300
 images: ["controlpanel.png"]
 url: "/machines/hpclasercutter/softstop/controlpanel/"
 pinned: true

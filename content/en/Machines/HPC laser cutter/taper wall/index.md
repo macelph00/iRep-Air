@@ -5,7 +5,7 @@ excerpt: "Image of the laser beam cutting through ⬆️"
 date: false
 lastmod: false
 draft: false
-weight: 3
+weight: 30
 images: ["taperwall.png"]
 url: "/machines/hpclasercutter/taperwall/"
 pinned: true

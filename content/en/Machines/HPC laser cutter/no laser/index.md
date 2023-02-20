@@ -5,7 +5,7 @@ excerpt:
 date: false
 lastmod: false
 draft: false
-weight: 7
+weight: 700
 images: ["nolaser.jpeg"]
 url: "/machines/hpclasercutter/nolaser"
 pinned: true

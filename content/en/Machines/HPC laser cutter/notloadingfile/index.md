@@ -5,7 +5,7 @@ excerpt: Have you clicked 'open' instead of 'import'?
 date: false
 lastmod: false
 draft: false
-weight: 8
+weight: 80
 images: ["haha.jpeg"]
 url: "/machines/hpclasercutter/nolaser"
 pinned: true

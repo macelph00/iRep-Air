@@ -5,7 +5,7 @@ excerpt:
 date: false
 lastmod: false
 draft: false
-weight: 2
+weight: 20
 images: [shadow.jpeg]
 url: "/machines/hpclasercutter/shadowcut/"
 pinned: true

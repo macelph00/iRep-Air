@@ -5,7 +5,7 @@ excerpt: "Usually happesn when DXF is exported from Fusion directly"
 date: false
 lastmod: false
 draft: false
-weight: 5
+weight: 50
 images: [missing_dxf.PNG]
 url: "/machines/hpclasercutter/missingdxf/"
 pinned: true

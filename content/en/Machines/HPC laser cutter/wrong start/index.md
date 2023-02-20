@@ -5,7 +5,7 @@ excerpt:
 date: false
 lastmod: false
 draft: false
-weight: 5
+weight: 50
 images: ["wrongstart.png"]
 url: "/machines/hpclasercutter/wrongstart/"
 pinned: true

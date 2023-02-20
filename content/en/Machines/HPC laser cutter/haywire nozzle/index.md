@@ -5,7 +5,7 @@ excerpt: "picture found online🤓"
 date: false
 lastmod: false
 draft: false
-weight: 4
+weight: 40
 images: ["crash.jpg"]
 url: "/machines/hpclasercutter/haywirenozzle/"
 pinned: true
