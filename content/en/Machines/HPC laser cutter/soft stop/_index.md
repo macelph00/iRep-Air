@@ -5,7 +5,7 @@ excerpt: "Most common issue"
 date: false
 lastmod: false
 draft: false
-weight: 8
+weight: 80
 images: [soft stop.jpeg]
 url: "/machines/hpclasercutter/softstop/"
 pinned: true
