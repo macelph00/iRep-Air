@@ -69,6 +69,6 @@
     "hugo": "0.101.0"
   },
   "dependencies": {
-    "mermaid": "^9.1.6"
+    "mermaid": "^10.3.0"
   }
 }
